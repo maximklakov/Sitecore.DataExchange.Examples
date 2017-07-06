@@ -54,6 +54,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LoggerPipelineStep\LoggerPipelineStepConverter.cs" />
+    <Compile Include="LoggerPipelineStep\LoggerSettings.cs" />
+    <Compile Include="LoggerPipelineStep\LoggerStepProcessor.cs" />
     <Compile Include="SelfieLogger\SelfieLoggerPipelineStepConverter.cs" />
     <Compile Include="SelfieLogger\SelfieLoggerSettings.cs" />
     <Compile Include="SelfieLogger\SelfieLoggerStepProcessor.cs" />

@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleMenuMaker", "Console
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.DataExchange.Examples.Sitecore", "Sitecore.DataExchange.Examples.Sitecore\Sitecore.DataExchange.Examples.Sitecore.csproj", "{583CD139-3B8E-479C-9F29-43BA41501324}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.DataExchange.Examples.WebHandlers", "Sitecore.DataExchange.Examples.WebHandlers\Sitecore.DataExchange.Examples.WebHandlers.csproj", "{8E4018FF-4777-4A37-B9F2-352D6E611B02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,10 @@ Global
 		{583CD139-3B8E-479C-9F29-43BA41501324}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{583CD139-3B8E-479C-9F29-43BA41501324}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{583CD139-3B8E-479C-9F29-43BA41501324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E4018FF-4777-4A37-B9F2-352D6E611B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4018FF-4777-4A37-B9F2-352D6E611B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4018FF-4777-4A37-B9F2-352D6E611B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4018FF-4777-4A37-B9F2-352D6E611B02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

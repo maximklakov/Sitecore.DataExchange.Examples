@@ -119,6 +119,20 @@
       <Exclude />
       <Name>Sitecore DataExchange Exapmples  dll</Name>
     </xfiles>
+    <xitems>
+      <Entries>
+        <x-item>/master/sitecore/system/Settings/Rules/Insert Options/Rules/Data Exchange - Example Tool/{B7F5FAD7-0A58-4D9D-98D2-78136F198728}/invariant/0</x-item>
+      </Entries>
+      <SkipVersions>False</SkipVersions>
+      <Converter>
+        <ItemToEntryConverter>
+          <Transforms />
+        </ItemToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>Insert Option</Name>
+    </xitems>
   </Sources>
   <Converter>
     <TrivialConverter>
